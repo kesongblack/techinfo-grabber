@@ -4,7 +4,7 @@ This program is being made to aid non-technical personnel on obtaining essential
 This program is compiled thru the combined efforts between me, Google search and ChatGPT interactions. Any similarities in existing code are accidental and unintentional.
 ### 🛑 Important Notes 🛑 
 Please use this program as intended and not misuse it on any way possible. 
-### 📈📊 Data Obtained 
+### 📈 Data Obtained 📊 
 Currently, this program can obtain the following data:
 * Windows Product ID
 * Windows Version, System Architecture
@@ -15,11 +15,11 @@ Currently, this program can obtain the following data:
 * Processor Information (model, freq, cores, threads)
 * Memory Information (approx. size, speed and type)
 * List of Hard Drives (name, type, approx. size)
-### 🔨 🧰 How to Use
+### 🔨 How to Use  🧰 
 * Open the program.
 * Wait for few minutes.
 * Information will display shortly. 
-### 📝📋 Notes for Data on Clipboard 
+### 📝 Notes for Data on Clipboard 📋 
 The data is being set to be placed on a spreadsheet row. Vertical arrangement will be done if requested. 
-### 🆘😣 Need Help? 
+### 🆘 Need Help? 😣 
 Feel free to reach me out here: bakatokwa@gmail.com 
