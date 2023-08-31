@@ -1,5 +1,5 @@
 # DISCLAIMER: 
-# - Code obtained thru interactions with ChatGPT. 
+# - Code obtained thru the combined efforts of Google and ChatGPT.
 # - I only compile them into a single file for this purpose only.
 # - This program only works on Windows.
 
